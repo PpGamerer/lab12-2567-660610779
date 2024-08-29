@@ -3,6 +3,7 @@ export const Footer = (props: {
   fullName: string;
   studentId: string;
 }) => {
+
   return (
     <div className="mt-3">
       <p className="text-secondary text-center">
